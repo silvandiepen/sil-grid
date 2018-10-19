@@ -9,7 +9,9 @@ const settings = {
 		sixth: 0.16,
 		'two-third': 0.67,
 		'three-quarter': 0.75,
-		'four-fifth ': 0.8
+		'four-fifth ': 0.8,
+		'3': 0.13,
+		sixth: 0.17
 	}
 };
 
