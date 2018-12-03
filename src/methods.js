@@ -33,6 +33,12 @@ export default {
 				if (props.center !== undefined && props.center !== false) {
 					classNames.push('center');
 				}
+				if (props.left !== undefined && props.left !== false) {
+					classNames.push('left');
+				}
+				if (props.right !== undefined && props.right !== false) {
+					classNames.push('right');
+				}
 			}
 			// Return the whole shebang.
 			return classNames;

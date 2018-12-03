@@ -14,6 +14,14 @@ export default {
 			type: String,
 			default: null
 		},
+		left: {
+			type: String,
+			default: null
+		},
+		right: {
+			type: String,
+			default: null
+		},
 		backgroundColor: {
 			type: String,
 			default: null
