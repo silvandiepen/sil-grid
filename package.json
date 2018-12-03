@@ -1,6 +1,6 @@
 {
   "name": "@sil/grid",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "",
   "main": "dist/grid.umd.js",
   "module": "dist/grid.esm.js",
