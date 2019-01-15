@@ -5,7 +5,7 @@ A little collection of Vue components to use with our grid.
 
 ### Install
 
-`npm install @sil/grid --save``
+```npm install @sil/grid --save```
 
 ### Use
 
