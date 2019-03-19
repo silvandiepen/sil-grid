@@ -21,6 +21,26 @@ export default {
 		right: {
 			type: String,
 			default: null
+		},		
+		small: {
+			type: String,
+			default: null
+		},
+		medium: {
+			type: String,
+			default: null
+		},
+		large: {
+			type: String,
+			default: null
+		},
+		xlarge: {
+			type: String,
+			default: null
+		},
+		xxlarge: {
+			type: String,
+			default: null
 		},
 		backgroundColor: {
 			type: String,

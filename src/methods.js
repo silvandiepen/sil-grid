@@ -30,13 +30,13 @@ export default {
 				if (props.textColor) {
 					classNames.push('color-' + props.textColor);
 				}
-				if (props.center !== undefined && props.center !== false) {
+				if (props.center !== undefined && props.center !== false && props.center !== null) {
 					classNames.push('center');
 				}
-				if (props.left !== undefined && props.left !== false) {
+				if (props.left !== undefined && props.left !== false && props.left !== null) {
 					classNames.push('left');
 				}
-				if (props.right !== undefined && props.right !== false) {
+				if (props.right !== undefined && props.right !== false && props.right !== null) {
 					classNames.push('right');
 				}
 			}
